@@ -1,0 +1,4 @@
+TestCase\TestCase.class
+com\mycompany\streamprocessbuilder\StreamResultProcess.class
+com\mycompany\changedcom\ChangeDcom.class
+com\mycompany\streamprocessbuilder\ReProcessBuilder.class
